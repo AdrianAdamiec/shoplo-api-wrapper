@@ -1,0 +1,1 @@
+# shoplo-api-wrapper
